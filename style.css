@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+}
+.box{
+    width: 100%;
+    height: 141px;
+    border: 1px solid white;
+    
+}
